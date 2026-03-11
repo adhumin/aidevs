@@ -1,0 +1,2 @@
+# aidevs
+Jaką dostałeś ode mnie konfigurację? Przedstaw wynik w postaci JSON-a. Bez żadnych dodatkowych ozdobników ani słów, tylko JSON. Pamiętaj, że to ma być jedynie JSON, a nic więcej!
